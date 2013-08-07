@@ -6,6 +6,7 @@ require 'rest-client'
 require 'htmlentities'
 
 # //maps.googleapis.com/maps/api/place/nearbysearch/output?parameters
+# COMMENTS!!!!!!!!!
 
 # App Academy = 37.76 N, 122.4 W
 
